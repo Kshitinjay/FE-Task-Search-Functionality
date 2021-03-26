@@ -1,0 +1,13 @@
+input {
+  width: auto;
+  padding: 10px 20px;
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid white;
+  color: white;
+  font-size: 2em;
+  text-transform: capitalize;
+}
+input:focus{
+    outline: none;
+}
